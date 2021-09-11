@@ -1,2 +1,2 @@
 # Hello welcome to IS601 GIT class!
-## This is introduction to GIT.
+## This is the Introduction to GIT.
